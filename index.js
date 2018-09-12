@@ -1,4 +1,4 @@
 // write your code below!
 console.log("Hello, World!")
-node.JS
+node.js
 index.js 
